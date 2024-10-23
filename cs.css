@@ -1,0 +1,22 @@
+img{
+    margin: 40px;
+    margin-top: 50px;
+    border-radius: 8%;
+    width: 83%;
+
+}
+p{
+    position: relative;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+span img{
+    margin: 10px 5px;
+    border-radius: 30px;
+    
+    
+}
+li{
+    list-style: none;
+}
